@@ -1,27 +1,11 @@
-# Template web
-template para usar nos estudos de web front-end.
-
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/template-de-web/)
-<br>
+# DIO.Series
+Console Application de cadastro de séries treinando CRUD.
 
 <p align="center">
 <b> Visual desktop </b>
 </p>
 <p align="center">
   <img width="720" src="assets/screenshots/screenshot1.png">
-</p>
-
----
-
-<br>
-
-
-<p align="center">
-<b> Visual mobile </b>
-</p>
-<p align="center">
-  <img width="200" src="assets/screenshots/screenshot2.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="200" src="assets/screenshots/screenshot3.png">
 </p>
 
 ---

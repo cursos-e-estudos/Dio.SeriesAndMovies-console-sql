@@ -1,0 +1,13 @@
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.csprojAssemblyReference.cache
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.AssemblyInfoInputs.cache
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.AssemblyInfo.cs
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.exe
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.deps.json
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.runtimeconfig.json
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.runtimeconfig.dev.json
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.dll
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\bin\Debug\netcoreapp3.1\Dio.SeriesAndMovies.pdb
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.dll
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.pdb
+C:\Users\Wanda\Documents\Estudos\Dio.SeriesAndMovies-console-sql\Dio.SeriesAndMovies\Dio.SeriesAndMovies\obj\Debug\netcoreapp3.1\Dio.SeriesAndMovies.genruntimeconfig.cache
